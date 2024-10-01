@@ -1,5 +1,9 @@
 # Hi there 👋
 
+<p align="right">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" />
+</p>
+
 - 🖥️ pursuing BTech in Computer Science with a specialization in Cybersecurity
 - 🔒 Keen interest in web development and Cryptography
 - 🧩 A problem solver, swiftly adapting to new technologies and contributing to dynamic teams
@@ -19,10 +23,5 @@
 ![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 
 ## Let's get in touch!
-[[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-](https://www.linkedin.com/in/anurag-reddy-13b682314/)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:anuragreddy018@gmail.com)
-
-![Professional GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:youremail@gmail.com)
