@@ -11,11 +11,7 @@
         <li>🌟 Main interest: Python, Cryptography, Web Development</li>
         <li>🚩 Interested in contributing to real-world projects in tech</li>
       </ul>
-    </td>
-    <td>
-      <p align="right">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px" />      </p>
-    </td>
+
   </tr>
 </table>
 
