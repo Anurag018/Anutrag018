@@ -1,15 +1,24 @@
 # Hi there 👋
 
-<p align="right">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" />
-</p>
-
-- 🖥️ pursuing BTech in Computer Science with a specialization in Cybersecurity
-- 🔒 Keen interest in web development and Cryptography
-- 🧩 A problem solver, swiftly adapting to new technologies and contributing to dynamic teams
-- 🌱 Focused on technology-driven environments and improving customer satisfaction
-- 🌟 Main interest: Python, Cryptography, Web Development
-- 🚩 Interested in contributing to real-world projects in tech
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🖥️ Pursuing BTech in Computer Science with a specialization in Cybersecurity</li>
+        <li>🔒 Keen interest in web development and Cryptography</li>
+        <li>🧩 A problem solver, swiftly adapting to new technologies and contributing to dynamic teams</li>
+        <li>🌱 Focused on technology-driven environments and improving customer satisfaction</li>
+        <li>🌟 Main interest: Python, Cryptography, Web Development</li>
+        <li>🚩 Interested in contributing to real-world projects in tech</li>
+      </ul>
+    </td>
+    <td>
+      <p align="right">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack 🛠️
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
