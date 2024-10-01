@@ -23,3 +23,6 @@
 ](https://www.linkedin.com/in/anurag-reddy-13b682314/)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:anuragreddy018@gmail.com)
+
+![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
