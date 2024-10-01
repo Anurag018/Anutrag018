@@ -14,7 +14,7 @@
     </td>
     <td>
       <p align="right">
-        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" />
+          <img src="https://media.giphy.com/media/3o7aD6XKs2SoNQ2YVy/giphy.gif" width="200px" />
       </p>
     </td>
   </tr>
