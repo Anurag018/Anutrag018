@@ -29,3 +29,5 @@
 ## Let's get in touch!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/(https://www.linkedin.com/in/yourprofile/)/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:youremail@gmail.com)
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
