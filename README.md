@@ -32,5 +32,5 @@
 ![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 
 ## Let's get in touch!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/anurag-reddy-13b682314/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/(https://www.linkedin.com/in/yourprofile/)/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:youremail@gmail.com)
