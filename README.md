@@ -20,4 +20,5 @@
 
 ## Let's get in touch!
 [[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-](https://www.linkedin.com/in/anurag-reddy-13b682314/)[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:anuragreddy018@gmail.com)
+](https://www.linkedin.com/in/anurag-reddy-13b682314/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:anuragreddy018@gmail.com)
